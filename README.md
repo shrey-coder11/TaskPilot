@@ -72,12 +72,7 @@ npm install
 ```
 
 3. Create `.env` file (copy from `.env.example`):
-```bash
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/taskpilot
-JWT_SECRET=your_jwt_secret_key_here
-PORT=5000
-NODE_ENV=development
-```
+
 
 4. Start the backend server:
 ```bash
