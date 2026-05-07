@@ -253,35 +253,6 @@ The frontend will run on `http://localhost:3000`
 ✅ Token persistence
 ✅ Logout functionality
 
-## Environment Variables
-
-### Backend (.env)
-```
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/taskpilot
-JWT_SECRET=your_secret_key_here
-PORT=5000
-NODE_ENV=development
-```
-
-### Frontend (.env.local)
-```
-VITE_API_URL=http://localhost:5000/api
-```
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
-
-## Support
-
-For questions or issues, please check the documentation or create an issue in the repository.
 
 ---
 
